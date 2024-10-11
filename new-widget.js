@@ -99,7 +99,7 @@
         How Can We Help You?
         <button id="close-chat" style="background: none; border: none; color: white; font-size: 20px; font-weight: bold; position: absolute; top: 50%; right: 15px; transform: translateY(-50%); cursor: pointer;">&times;</button>
       </div>
-      <div id="text-bubble" style="background-color: #f2f4f7; padding: 15px; margin: 15px 20px; border-radius: 0 2rem 2rem 2rem; font-size: 14px; color: #111828; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+      <div id="text-bubble" style="background-color: #f2f4f7; padding: 15px; margin: 15px 20px; border-radius: 0 1rem 1rem 1rem; font-size: 14px; color: #111828; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
         Enter your info below and any information regarding your vehicle choice, and a representative will be right with you.
       </div>
       <form id="chat-form" style="border: 2px solid; border-image: linear-gradient(to right, ${primaryColor}, ${secondaryColor}) 1; padding: 10px; border-radius: 10px; margin: 15px; text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center; box-sizing: border-box;">
@@ -112,7 +112,7 @@
       <div id="form-footer" style="font-size: 12px; text-align: center; padding: 8px; color: #555;">
         By submitting, you agree to receive SMS or emails. Rates may apply.
       </div>
-      <div id="confirmation-bubble" style="display: none; background-color: #f2f4f7; padding: 15px; margin: 10px 20px; border-radius: 0 2rem 2rem 2rem; font-size: 14px; color: #111828; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+      <div id="confirmation-bubble" style="display: none; background-color: #f2f4f7; padding: 15px; margin: 10px 20px; border-radius: 0 1rem 1rem 1rem; font-size: 14px; color: #111828; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
         Thanks for your enquiry. One of our authorized representatives will be in touch any minute now. 🏎️
       </div>
       <div id="powered-by" style="font-size: 12px; text-align: center; margin-top: auto; padding-bottom: 10px;">
